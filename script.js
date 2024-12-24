@@ -35,34 +35,34 @@ const services = [
 // Portfolio Data
 const portfolioItems = [
   {
-    title: "Agency Website",
-    category: "Web Design",
-    image: "path/to/image1.jpg",
+    title: "Acta",
+    category: "Album Artwork",
+    image: "images/acta.png",
   },
   {
-    title: "Mobile App",
-    category: "UI/UX Design",
-    image: "path/to/image2.jpg",
+    title: "Heaven",
+    category: "Album Artwork",
+    image: "images/heaven.jpg",
   },
   {
-    title: "Brand Identity",
-    category: "Branding",
-    image: "path/to/image3.jpg",
+    title: "Look",
+    category: "Album Artwork",
+    image: "images/Look.png",
   },
   {
-    title: "E-commerce Platform",
-    category: "Web Development",
-    image: "path/to/image4.jpg",
+    title: "Maze",
+    category: "Album Artwork",
+    image: "images/maze.png",
   },
   {
-    title: "Marketing Campaign",
-    category: "Digital Marketing",
-    image: "path/to/image5.jpg",
+    title: "Loneliness",
+    category: "Album Artwork",
+    image: "images/loneliness.jpg",
   },
   {
-    title: "Product Photography",
-    category: "Photography",
-    image: "path/to/image6.jpg",
+    title: "Chess",
+    category: "Album Artwork",
+    image: "images/chess.jpg",
   },
 ];
 
